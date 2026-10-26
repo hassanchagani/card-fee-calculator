@@ -26,7 +26,7 @@ python -m cardfees --amount 100 --card premium
 
 | Card | Rate | Fixed fee |
 |------|------|-----------|
-| standard | 2.9% | $0.30 |
+| standard | 2.7% | $0.30 |
 | premium | 3.5% | $0.30 |
 | business | 2.5% | $0.25 |
 

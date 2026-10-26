@@ -5,7 +5,7 @@ plus a fixed per-transaction fee in dollars.
 """
 
 CARD_RATES = {
-    "standard": {"rate": 0.029, "fixed": 0.30},
+    "standard": {"rate": 0.027, "fixed": 0.30},
     "premium": {"rate": 0.035, "fixed": 0.30},
     "business": {"rate": 0.025, "fixed": 0.25},
 }
