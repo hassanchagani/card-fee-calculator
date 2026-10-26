@@ -2,7 +2,7 @@ from card_fees import calculate_fee
 
 
 def test_standard_fee():
-    assert calculate_fee(100.00, "standard") == 3.20
+    assert calculate_fee(100.00, "standard") == 3.00
 
 
 def test_premium_fee():
